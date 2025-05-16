@@ -1,5 +1,5 @@
 ### Initial Roll
-Roll a 1d20
+Roll a 1d20, if 3 days pass by without an event, roll a 1d6 instead
 
 ### Statistics:
 #### On the Road:
@@ -36,7 +36,27 @@ Roll a 1d20
 
 ### Xylac
 
-| Zazo's Revenge    | Zazo himself is after Xylac and wants revenge. He will gun towards Xylac and try to kill him |
-| ----------------- | -------------------------------------------------------------------------------------------- |
-| Xylac's nightmare | The Dark Domain's influence                                                                  |
+| Zazo's Revenge    | Zazo himself is after Xylac and wants revenge. He will gun towards Xylac and try to kill him                                                                                 |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Xylac's nightmare | The Dark Domain's influence pulls Xyalc and Mee to see visions of Sonotgitna and Mee's master - Eboin. Give Evan pieces of lore about Sontgitna. Mutate as this happens more |
+| Mee and you       | Mee's influence is getting stronger over you - roll your wisdom save against Mee, DC 12 + half your level, or else Mee will take over your body until your next long rest.   |
+|                   |                                                                                                                                                                              |
+|                   |                                                                                                                                                                              |
 
+### Isabelle
+
+| Revanents of The Wolf | 1d6 werewolfs in human form hunt down Isabelle for killing their brethren and are looking for Aster and Rozalina |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Ghosts of The Orphans | Orphan ghosts haunt the party, looking to haunt the woman who                                                    |
+| Rosalina's Visit      | The travelling merchant Rozalina bumps into the party and has special items for sale                             |
+### Mallarda
+
+| The Steelhammer Reign |     |
+| --------------------- | --- |
+| Strahd's Deal         |     |
+| A Font of -           |     |
+#### Sonya
+
+|     |     |
+| --- | --- |
+|     |     |
