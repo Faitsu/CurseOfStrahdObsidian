@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
+                "file": "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morgantha"
+              "title": "Khrast Steelhammer"
             }
           }
         ],
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
+                "file": "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Morgantha"
+              "title": "Backlinks for Khrast Steelhammer"
             }
           },
           {
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
+                "file": "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Morgantha"
+              "title": "Outline of Khrast Steelhammer"
             }
           },
           {
@@ -266,6 +266,9 @@
   },
   "active": "008b1355ff6720c5",
   "lastOpenFiles": [
+    "Important NPCs/Player Related NPCs/Holly's Father.md",
+    "Old Bonegrinder/The Megalith of the Forest Fane.md",
+    "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
     "Pasted image 20250516181130.jpg",
     "Important NPCs/The Fanes/The Seeker - The Forest Fane.md",
     "Important NPCs/The Fanes/The Huntress - The Mountain Fane.md",
@@ -275,7 +278,6 @@
     "Important NPCs/The Fanes/The Weaver - The Swamp Fane.md",
     "Important NPCs/Old Bonegrinder/Hags/Hags.md",
     "Important NPCs/Old Bonegrinder/Hags/Offalia Wormwiggle.md",
-    "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
     "Z Misc/595bb752cdd25db7d122072327c15ff6.jpg",
     "New Text Document.txt",
     "Game Changing Events/Madame Eva's Prophecy.md",
@@ -283,7 +285,6 @@
     "Domains of Dread/Sontigona - The Domain of Desire.md",
     "Important NPCs/Old Bonegrinder/Old Bonegrinder.md",
     "Important NPCs/Player Related NPCs/Callahan.md",
-    "Important NPCs/Player Related NPCs/Holly's Father.md",
     "Important NPCs/Player Related NPCs/Daligar.md",
     "Important NPCs/Player Related NPCs/Zazo.md",
     "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
