@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
+                "file": "Random Encounters Table/Random Encounters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Khrast Steelhammer"
+              "title": "Random Encounters"
             }
           }
         ],
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
+                "file": "Random Encounters Table/Random Encounters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Khrast Steelhammer"
+              "title": "Backlinks for Random Encounters"
             }
           },
           {
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
+                "file": "Random Encounters Table/Random Encounters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Khrast Steelhammer"
+              "title": "Outline of Random Encounters"
             }
           },
           {
@@ -266,6 +266,8 @@
   },
   "active": "008b1355ff6720c5",
   "lastOpenFiles": [
+    "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
+    "Random Encounters Table/Random Encounters.md",
     "Important NPCs/Player Related NPCs/Holly's Father.md",
     "Old Bonegrinder/The Megalith of the Forest Fane.md",
     "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
@@ -287,7 +289,6 @@
     "Important NPCs/Player Related NPCs/Callahan.md",
     "Important NPCs/Player Related NPCs/Daligar.md",
     "Important NPCs/Player Related NPCs/Zazo.md",
-    "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
     "Important NPCs/Player Related NPCs/Aster.md",
     "Important NPCs/Player Related NPCs/Rozalina Sokolovski.md",
     "Important NPCs/Player Related NPCs/Aedan Luckyfoot.md",
@@ -296,7 +297,6 @@
     "Important NPCs/Ireena Kolyana.md",
     "Z Misc/62421c73715a629ed6efdb5ab5e291fc.jpg",
     "Wizards of the Wine/List of Wines/Champagne du le Stomp.md",
-    "Wizards of the Wine/List of Wines/Red Dragon Crush.md",
     "Important NPCs/Old Bonegrinder/Hags",
     "Z Misc/mystical-stone-circle-stockcake.jpg",
     "Domains of Dread",
