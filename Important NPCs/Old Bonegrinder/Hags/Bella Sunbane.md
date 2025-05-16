@@ -1,3 +1,5 @@
+Bella Sunbane is a hag that is apart of the [[Hags|Bonegrinder Coven]]. She can currently be found by the Durst Windmills
+
 - Found on first floor and is the front woman to the bakery operation at the bonegrinder windmill. Though not many travel to their home, she welcomes travelers to the bakery she has set up on the first floor. 
 - Her true goal is to lure travelers into telling her their deepest darkest secrets so she can make deals with them, or to have innocent adventurers get her more children so they can make more pastries
 - Possible Scenarios: 

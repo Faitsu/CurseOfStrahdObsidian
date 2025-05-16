@@ -1,3 +1,9 @@
+---
+aliases:
+  - The Hags
+  - Hag
+  - Bonegrinder Coven
+---
 Three Current Hags
 - [[Morgantha]]
 - [[Bella Sunbane]]

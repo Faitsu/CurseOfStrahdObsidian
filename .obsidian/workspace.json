@@ -77,12 +77,14 @@
             "id": "008b1355ff6720c5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Z Misc/595bb752cdd25db7d122072327c15ff6.jpg"
+                "file": "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "595bb752cdd25db7d122072327c15ff6"
+              "icon": "lucide-file",
+              "title": "Morgantha"
             }
           }
         ],
@@ -159,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z Misc/595bb752cdd25db7d122072327c15ff6.jpg",
+                "file": "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 595bb752cdd25db7d122072327c15ff6"
+              "title": "Backlinks for Morgantha"
             }
           },
           {
@@ -206,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z Misc/595bb752cdd25db7d122072327c15ff6.jpg",
+                "file": "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 595bb752cdd25db7d122072327c15ff6"
+              "title": "Outline of Morgantha"
             }
           },
           {
@@ -262,15 +264,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e5f1e327491a90c",
+  "active": "008b1355ff6720c5",
   "lastOpenFiles": [
-    "New Text Document.txt",
+    "Important NPCs/The Fanes/The Seeker - The Forest Fane.md",
+    "Important NPCs/The Fanes/The Huntress - The Mountain Fane.md",
+    "Important NPCs/The Morninglord.md",
     "Important NPCs/Strahd Von Zarovich.md",
+    "Important NPCs/Old Bonegrinder/Hags/Bella Sunbane.md",
+    "Important NPCs/The Fanes/The Weaver - The Swamp Fane.md",
+    "Important NPCs/Old Bonegrinder/Hags/Hags.md",
+    "Important NPCs/Old Bonegrinder/Hags/Offalia Wormwiggle.md",
+    "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
+    "Z Misc/595bb752cdd25db7d122072327c15ff6.jpg",
+    "New Text Document.txt",
     "Game Changing Events/Madame Eva's Prophecy.md",
     "Game Changing Events/Strahd's Dinner Party.md",
     "Domains of Dread/Sontigona - The Domain of Desire.md",
-    "Important NPCs/Old Bonegrinder/Hags/Bella Sunbane.md",
-    "Important NPCs/Old Bonegrinder/Hags/Hags.md",
     "Important NPCs/Old Bonegrinder/Old Bonegrinder.md",
     "Important NPCs/Player Related NPCs/Callahan.md",
     "Important NPCs/Player Related NPCs/Holly's Father.md",
@@ -281,16 +290,9 @@
     "Important NPCs/Player Related NPCs/Rozalina Sokolovski.md",
     "Important NPCs/Player Related NPCs/Aedan Luckyfoot.md",
     "Old Bonegrinder/Old Bonegrinder Windmill.md",
-    "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
-    "Important NPCs/Old Bonegrinder/Hags/Offalia Wormwiggle.md",
-    "Important NPCs/The Morninglord.md",
     "Random Encounters Table",
     "Important NPCs/Ireena Kolyana.md",
-    "Important NPCs/The Fanes/The Seeker - The Forest Fane.md",
-    "Important NPCs/The Fanes/The Weaver - The Swamp Fane.md",
-    "Important NPCs/The Fanes/The Huntress - The Mountain Fane.md",
     "Z Misc/62421c73715a629ed6efdb5ab5e291fc.jpg",
-    "Z Misc/595bb752cdd25db7d122072327c15ff6.jpg",
     "Wizards of the Wine/List of Wines/Champagne du le Stomp.md",
     "Wizards of the Wine/List of Wines/Red Dragon Crush.md",
     "Important NPCs/Old Bonegrinder/Hags",
@@ -305,7 +307,6 @@
     "Misc",
     "Important NPCs/Old Bonegrinder",
     "Magic Items/Important Story Items",
-    "Magic Items",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
