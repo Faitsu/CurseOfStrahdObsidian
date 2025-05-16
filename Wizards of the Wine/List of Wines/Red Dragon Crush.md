@@ -1,0 +1,3 @@
+- The middle of the pack wine made by the Wizards of the Wine
+- Also nicknamed "Windmill Wine" due to the Marikov's connection to the Durst Family long ago and the prevalence of Red Dragon Crush at the Windmill
+- The Gem to create Red Dragon Crush 
