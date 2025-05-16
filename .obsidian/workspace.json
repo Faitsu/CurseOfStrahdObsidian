@@ -226,9 +226,19 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "8fafdbfd7cfc89d0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "310248dfef06192a",
@@ -264,7 +274,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "008b1355ff6720c5",
+  "active": "8fafdbfd7cfc89d0",
   "lastOpenFiles": [
     "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
     "Random Encounters Table/Random Encounters.md",
