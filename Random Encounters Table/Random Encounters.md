@@ -1,5 +1,5 @@
 ### Initial Roll
-Roll a 1d20, if 3 days pass by without an event, roll a 1d6 instead
+Roll a 1d20, if 2 days pass by without an event, roll a 1d6 instead
 
 ### Statistics:
 #### On the Road:
@@ -11,7 +11,7 @@ Roll a 1d20, if 3 days pass by without an event, roll a 1d6 instead
 	- Isabelle: 18
 	- Mallarda: 19
 - 1/20 chance of wilderness encounters
-	- Nat 20
+	- Nat 20 or nat 1
 
 
 #### In the Wilderness:
