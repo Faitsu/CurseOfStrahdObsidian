@@ -37,6 +37,8 @@ The first elixir, labeled “Youth,” is a golden syrup that magically makes th
 - Items:
 	- Something Durst related
 	- a crate of windmill wine
+	-  Clothes that seem like they belonged to Aris Orphans
+	- A bunny toy that is very distinct
 	- fairy tale book - roll a 1d6 to see what fairy tale you get
 		- werewolves
 		- druids
