@@ -79,16 +79,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Old Bonegrinder/Letter From Morgantha.md",
+                "file": "Handouts/Old Bonegrinder/Returned Letter From Morgantha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Letter From Morgantha"
+              "title": "Returned Letter From Morgantha"
+            }
+          },
+          {
+            "id": "858e41a8762ec1ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sonya"
+            }
+          },
+          {
+            "id": "53044f2b2a4b97d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Holly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Holly"
+            }
+          },
+          {
+            "id": "c288da749aff0378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Isabelle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Isabelle"
+            }
+          },
+          {
+            "id": "c54cbebd9819f370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mallarda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mallarda"
+            }
+          },
+          {
+            "id": "06fbba965efa3ba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xylac.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Xylac"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -294,8 +364,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7685f48912f9a05",
+  "active": "06fbba965efa3ba1",
   "lastOpenFiles": [
+    "Mallarda.md",
+    "Isabelle.md",
+    "Holly.md",
+    "Sonya.md",
+    "Xylac.md",
+    "Handouts/Old Bonegrinder/Returned Letter From Morgantha.md",
+    "Player Character",
     "Game Changing Events/Madame Eva's Prophecy.md",
     "Game Changing Events/Strahd's Dinner Party.md",
     "Game Changing Events/Festival of the Blazing Sun.md",
@@ -317,14 +394,8 @@
     "Important NPCs/The Fanes/The Huntress - The Mountain Fane.md",
     "Important NPCs/The Morninglord.md",
     "Important NPCs/Strahd Von Zarovich.md",
-    "Important NPCs/Old Bonegrinder/Hags/Bella Sunbane.md",
-    "Important NPCs/Old Bonegrinder/Hags/Hags.md",
-    "Important NPCs/Old Bonegrinder/Hags/Offalia Wormwiggle.md",
     "Z Misc/595bb752cdd25db7d122072327c15ff6.jpg",
     "New Text Document.txt",
-    "Important NPCs/Old Bonegrinder/Old Bonegrinder.md",
-    "Important NPCs/Player Related NPCs/Callahan.md",
-    "Important NPCs/Player Related NPCs/Daligar.md",
     "Random Encounters Table",
     "Z Misc/62421c73715a629ed6efdb5ab5e291fc.jpg",
     "Important NPCs/Old Bonegrinder/Hags",
@@ -338,7 +409,6 @@
     "Misc/link8565_magical_croissants_that_are_slightly_blue_with_golden__7332e4a2-3e87-44c1-9860-1f6fecb1d83d.webp",
     "Misc",
     "Important NPCs/Old Bonegrinder",
-    "Magic Items/Important Story Items",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
