@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sonya.md",
+                "file": "Player Character/Sonya.md",
                 "mode": "source",
                 "source": false
               },
@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holly.md",
+                "file": "Player Character/Holly.md",
                 "mode": "source",
                 "source": false
               },
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isabelle.md",
+                "file": "Player Character/Isabelle.md",
                 "mode": "source",
                 "source": false
               },
@@ -135,7 +135,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mallarda.md",
+                "file": "Player Character/Mallarda.md",
                 "mode": "source",
                 "source": false
               },
@@ -149,7 +149,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xylac.md",
+                "file": "Player Character/Xylac.md",
                 "mode": "source",
                 "source": false
               },
@@ -366,11 +366,11 @@
   },
   "active": "06fbba965efa3ba1",
   "lastOpenFiles": [
-    "Mallarda.md",
-    "Isabelle.md",
-    "Holly.md",
-    "Sonya.md",
-    "Xylac.md",
+    "Player Character/Sonya.md",
+    "Player Character/Mallarda.md",
+    "Player Character/Isabelle.md",
+    "Player Character/Holly.md",
+    "Player Character/Xylac.md",
     "Handouts/Old Bonegrinder/Returned Letter From Morgantha.md",
     "Player Character",
     "Game Changing Events/Madame Eva's Prophecy.md",
