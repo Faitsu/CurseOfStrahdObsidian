@@ -14,7 +14,7 @@
               "type": "obsidian-leaflet-map-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Leaflet Map"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -223,8 +223,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -233,8 +233,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -245,6 +245,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "5082855331808225",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
