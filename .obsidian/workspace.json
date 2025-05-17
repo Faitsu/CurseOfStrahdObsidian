@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Encounters Table/Random Encounters.md",
+                "file": "Old Bonegrinder/Dream Pastries and Their Effects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Encounters"
+              "title": "Dream Pastries and Their Effects"
             }
           }
         ],
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Encounters Table/Random Encounters.md",
+                "file": "Old Bonegrinder/Dream Pastries and Their Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Random Encounters"
+              "title": "Backlinks for Dream Pastries and Their Effects"
             }
           },
           {
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Encounters Table/Random Encounters.md",
+                "file": "Old Bonegrinder/Dream Pastries and Their Effects.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Random Encounters"
+              "title": "Outline of Dream Pastries and Their Effects"
             }
           },
           {
@@ -274,10 +274,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fafdbfd7cfc89d0",
+  "active": "008b1355ff6720c5",
   "lastOpenFiles": [
-    "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
+    "Magic Items/Important Story Items/Holy Symbol of Ravenkind.md",
+    "Magic Items/Important Story Items/Sunsword.md",
+    "Magic Items/Important Story Items/Tome of Strahd.md",
     "Random Encounters Table/Random Encounters.md",
+    "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
     "Important NPCs/Player Related NPCs/Holly's Father.md",
     "Old Bonegrinder/The Megalith of the Forest Fane.md",
     "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
@@ -302,11 +305,8 @@
     "Important NPCs/Player Related NPCs/Aster.md",
     "Important NPCs/Player Related NPCs/Rozalina Sokolovski.md",
     "Important NPCs/Player Related NPCs/Aedan Luckyfoot.md",
-    "Old Bonegrinder/Old Bonegrinder Windmill.md",
     "Random Encounters Table",
-    "Important NPCs/Ireena Kolyana.md",
     "Z Misc/62421c73715a629ed6efdb5ab5e291fc.jpg",
-    "Wizards of the Wine/List of Wines/Champagne du le Stomp.md",
     "Important NPCs/Old Bonegrinder/Hags",
     "Z Misc/mystical-stone-circle-stockcake.jpg",
     "Domains of Dread",

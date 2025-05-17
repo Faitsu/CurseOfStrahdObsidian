@@ -51,12 +51,13 @@ Roll a 1d20, if 3 days pass by without an event, roll a 1d6 instead
 | Rosalina's Visit      | The travelling merchant Rozalina bumps into the party and has special items for sale                             |
 ### Mallarda
 
-| The Steelhammer Reign |     |
-| --------------------- | --- |
-| Strahd's Deal         |     |
-| A Font of -           |     |
+| The Steelhammer Reign  | Passer bys speak of a dwarf they saw                                                    |
+| ---------------------- | --------------------------------------------------------------------------------------- |
+| Mordinkainin's madness |                                                                                         |
+| A Font of Shadows      | The shadows speak to mallarda, tempting her to take a pact in return for prolonged life |
 #### Sonya
 
-|     |     |
-| --- | --- |
-|     |     |
+| Cal's Posession    | Strahd somehow possesses or poses as Cal and follows the group around |
+| ------------------ | --------------------------------------------------------------------- |
+| The Witch's Wrath  | The witches are after Aedan and Sonya                                 |
+| The Fane's visions |                                                                       |
