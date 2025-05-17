@@ -45,10 +45,10 @@ Roll a 1d20, if 3 days pass by without an event, roll a 1d6 instead
 
 ### Isabelle
 
-| Revanents of The Wolf | 1d6 werewolfs in human form hunt down Isabelle for killing their brethren and are looking for Aster and Rozalina |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Ghosts of The Orphans | Orphan ghosts haunt the party, looking to haunt the woman who                                                    |
-| Rosalina's Visit      | The travelling merchant Rozalina bumps into the party and has special items for sale                             |
+| Revanents of The Wolf | 1d6 werewolfs in human form hunt down Isabelle for killing their brethren and are looking for Aster and Rozalina                    |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Ghosts of The Orphans | Orphan ghosts haunt the party, looking to haunt the woman who                                                                       |
+| Rosalina's Visit      | The travelling merchant Rozalina bumps into the party and has special items for sale. Aster has a gift for Isabelle in this version |
 ### Mallarda
 
 | The Steelhammer Reign  | Passer bys speak of a dwarf they saw                                                    |
@@ -61,3 +61,14 @@ Roll a 1d20, if 3 days pass by without an event, roll a 1d6 instead
 | ------------------ | --------------------------------------------------------------------- |
 | The Witch's Wrath  | The witches are after Aedan and Sonya                                 |
 | The Fane's visions |                                                                       |
+### Wilderness Encounters
+
+| Rosalina's Visit  |     |
+| ----------------- | --- |
+| Strahd's Entrance |     |
+| The Wolves        |     |
+| Wereravens        |     |
+| Druids            |     |
+| Zombies           |     |
+| Revanent          |     |
+| Wyrmling          |     |
