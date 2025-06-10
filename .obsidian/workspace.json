@@ -14,7 +14,7 @@
               "type": "obsidian-leaflet-map-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Leaflet Map"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -79,16 +79,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important NPCs/The Morninglord.md",
+                "file": "Domains of Dread/Sonogitna - The Domain of Desire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Morninglord"
+              "title": "Sonogitna - The Domain of Desire"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,8 +223,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -233,8 +233,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -245,6 +245,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "5082855331808225",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -284,36 +294,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "008b1355ff6720c5",
+  "active": "f8d8400979195a94",
   "lastOpenFiles": [
-    "Important NPCs/Strahd Von Zarovich.md",
-    "Important NPCs/Ireena Kolyana.md",
-    "Important NPCs/The Fanes/The Seeker - The Forest Fane.md",
-    "Important NPCs/The Fanes/The Huntress - The Mountain Fane.md",
-    "Important NPCs/Player Related NPCs/Holly's Father.md",
-    "Random Encounters Table/Random Encounters.md",
-    "Player Character/Mallarda.md",
-    "Player Character/Isabelle.md",
-    "Player Character/Sonya.md",
-    "Player Character/Xylac.md",
-    "Player Character/Holly.md",
-    "Player Character",
-    "Handouts/Old Bonegrinder/Returned Letter From Morgantha.md",
     "Domains of Dread/Sonogitna - The Domain of Desire.md",
-    "Old Bonegrinder/Old Bonegrinder Windmill.md",
+    "Game Changing Events/Strahd's Dinner Party.md",
+    "Game Changing Events/Madame Eva's Prophecy.md",
+    "Game Changing Events/Festival of the Blazing Sun.md",
+    "Game Changing Events/Death House Encounters.md",
+    "Important NPCs/(Village of) Barovia/Mad Mary.md",
+    "Important NPCs/(Village of) Barovia/Ismark Kolyana.md",
+    "Important NPCs/(Village of) Barovia/Father Donavich.md",
+    "Handouts/Old Bonegrinder/Returned Letter From Morgantha.md",
+    "Player Character/Sonya.md",
+    "Player Character/Holly.md",
+    "Player Character/Isabelle.md",
+    "Player Character/Mallarda.md",
     "Old Bonegrinder/The Megalith of the Forest Fane.md",
-    "Important NPCs/The Fanes/The Weaver - The Swamp Fane.md",
-    "Old Bonegrinder/Dream Pastries and Their Effects.md",
-    "Magic Items/Important Story Items/Holy Symbol of Ravenkind.md",
-    "Magic Items/Important Story Items/Sunsword.md",
-    "Magic Items/Important Story Items/Tome of Strahd.md",
-    "Important NPCs/Player Related NPCs/Khrast Steelhammer.md",
-    "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
-    "Pasted image 20250516181130.jpg",
-    "Important NPCs/The Morninglord.md",
-    "Important NPCs/Old Bonegrinder/Hags/Bella Sunbane.md",
-    "Important NPCs/Old Bonegrinder/Hags/Hags.md",
+    "Wizards of the Wine/List of Wines/Red Dragon Crush.md",
+    "Wizards of the Wine/List of Wines/Purple Grapemash No. 3.md",
+    "Wizards of the Wine/List of Wines/Champagne du le Stomp.md",
     "Important NPCs/Old Bonegrinder/Hags/Offalia Wormwiggle.md",
+    "Important NPCs/Old Bonegrinder/Hags/Morgantha.md",
+    "Important NPCs/Old Bonegrinder/Hags/Bella Sunbane.md",
+    "Important NPCs/Old Bonegrinder/Old Bonegrinder.md",
+    "Random Encounters Table/Random Encounters.md",
+    "Player Character/Xylac.md",
+    "Player Character",
+    "Old Bonegrinder/Old Bonegrinder Windmill.md",
+    "Old Bonegrinder/Dream Pastries and Their Effects.md",
+    "Important NPCs/The Fanes/The Weaver - The Swamp Fane.md",
+    "Pasted image 20250516181130.jpg",
     "Z Misc/595bb752cdd25db7d122072327c15ff6.jpg",
     "New Text Document.txt",
     "Random Encounters Table",
