@@ -32,17 +32,17 @@ The first elixir, labeled “Youth,” is a golden syrup that magically makes th
 #### Third Floor
 - Bed room of the hags
 - need to populate this
+-  Clothes that seem like they belonged to Aris Orphans
+- A bunny toy that is very distinct
 #### Fourth Floor
 - Attic. Has all the knick knacks the hags didn't want that was originally in this house
 - Items:
 	- Something Durst related
 	- a crate of windmill wine
-	-  Clothes that seem like they belonged to Aris Orphans
-	- A bunny toy that is very distinct
 	- fairy tale book - roll a 1d6 to see what fairy tale you get
 		- werewolves
 		- druids
 		- wereravens
-		- fanes
 		- agryvolst (dragon)
 		- Deva & mongrolfolk
+		-  fanes
