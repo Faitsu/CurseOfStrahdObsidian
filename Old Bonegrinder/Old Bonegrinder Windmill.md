@@ -42,9 +42,9 @@ The first elixir, labeled “Youth,” is a golden syrup that magically makes th
 	- fairy tale book - roll a 1d6 to see what fairy tale you get
 		- werewolves
 		- druids
-		- wereravens - fairy tale about
+		- wereravens - fairy tale about how a raven met a fairy, and the raven and fairy became the best of friends, but when the raven was near its lifespan, it told 
 		- agryvolst (dragon)
 		- Deva & mongrolfolk - An angel once pure and divine was sent to become the beacon of light and salvation to hell, but the angel, seeing all the pain and suffering decided to try and end the pain of 
 		- Strahd - madly in love with a princess, but the princess fell in love with the man's brother instead
-		- 
+		- Mad Wizard - 
 		-  Fanes
