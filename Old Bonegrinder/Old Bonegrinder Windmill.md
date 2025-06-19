@@ -28,20 +28,20 @@ The first elixir, labeled “Youth,” is a golden syrup that magically makes th
 #### Second Floor
 - Room where children get grounded up - room is taken up by a large millstone connected to a wooden gear shaft that rises through the ceiling in the center of the room.
 - can find small children bones here and hanging bodies
-- [[Offalia Wormwiggle]] can be found here along with two redcaps
+- [[Offalia Wormwiggle]] can be found here
 #### Third Floor
 - Bed room of the hags
-- need to populate this
 -  Clothes that seem like they belonged to Aris Orphans
 - A bunny toy that is very distinct
+-  Six pieces of cheap jewelry (worth 25 gp each)
 #### Fourth Floor
 - Attic. Has all the knick knacks the hags didn't want that was originally in this house
 - Items:
 	- Something Durst related
 	- a crate of windmill wine
 	- fairy tale book - roll a 1d6 to see what fairy tale you get
-		- werewolves
-		- druids
+		- werewolves - A girl was looking for her grandmother in the woods, but gets lost and eventually eaten  
+		- druids - 
 		- wereravens - fairy tale about how a raven met a fairy, and the raven and fairy became the best of friends, but when the raven was near its lifespan, it told 
 		- agryvolst (dragon)
 		- Deva & mongrolfolk - An angel once pure and divine was sent to become the beacon of light and salvation to hell, but the angel, seeing all the pain and suffering decided to try and end the pain of 
