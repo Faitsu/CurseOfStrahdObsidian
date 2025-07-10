@@ -2,7 +2,7 @@
 Roll a 1d20, if 2 days pass by without an event, roll a 1d6 instead
 
 ### Statistics:
-#### On the Road:   
+#### On the Road:    
 - 14/20 chance of nothing happening
 - 1/20 chance of character events
 	- Holly: 15
