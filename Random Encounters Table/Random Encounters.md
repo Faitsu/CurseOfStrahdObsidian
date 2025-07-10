@@ -1,4 +1,4 @@
- ### Initial Roll
+  ### Initial Roll
 Roll a 1d20, if 2 days pass by without an event, roll a 1d6 instead
 
 ### Statistics:
