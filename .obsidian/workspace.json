@@ -156,8 +156,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -227,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a50db03854473971",
+  "active": "1fa6cfd2eae1ef29",
   "lastOpenFiles": [
     "Old Bonegrinder/The Megalith of the Forest Fane.md",
     "Magic Items/Important Story Items/Holy Symbol of Ravenkind.md",
