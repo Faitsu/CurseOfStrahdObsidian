@@ -19,8 +19,8 @@ Roll a 1d20, if 2 days pass by without an event, roll a 1d6 instead
 - 1/20 chance of character events
 	- Holly: 12
 	- Sonya:13
-	- Xylac: 14
-	- Isabelle: 15
+	- Isabelle: 14
+	- Xylac: 15
 	- Mallarda: 16
 - Wilderness Encounter:
 	- 17-20
